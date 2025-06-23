@@ -64,7 +64,7 @@
 
     <nav>
         <a href="index.html">Home</a>
-        <a href="ability_knowledge.html">Skills & Knowledge</a> 
+        <a href="ability_knowledge.html">Ability & Knowledge</a> 
         <a href="favorites.html">Favorites</a>
         <a href="links.html">Useful Links</a>
     </nav>
